@@ -1,6 +1,6 @@
 # Buff Scraper
 
-Este projeto é um web scraper desenvolvido em Python, utilizando Selenium e BeautifulSoup, para extrair informações de itens de venda do mercado de CS:GO no site Buff.163.com.
+Este projeto é um web scraper desenvolvido em Python, utilizando Selenium e BeautifulSoup, para extrair informações de itens de venda do mercado de CS2 no site Buff.163.com.
 
 ## Funcionalidades
 
