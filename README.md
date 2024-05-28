@@ -80,3 +80,4 @@ min_price = None
 max_price = 500
 search_term = "fallen"
 category = None
+```
