@@ -1,3 +1,5 @@
-
 pythonProject/cookies.json
 *.json
+/.idea
+/pythonProject/__pycache__
+/pythonProject/data
