@@ -131,8 +131,8 @@ def calc_max_page(driver, wait):
 
 
 def verify_last_page(driver, wait, max_page):
-    url_test = link_builder(max_page, config.sort_by, config.min_price,
-                            config.max_price, config.search_term, config.category)
+    url_test = link_builder(max_page, config.SORT_BY, config.MIN_PRICE,
+                            config.MAX_PRICE, config.SEARCH_TERM, config.CATEGORY)
     print(f"Verifying last page: {url_test}")
     driver.get(url_test)
     time.sleep(1)
@@ -168,8 +168,8 @@ def scrape_items(chromedriver_path, cookies, total_pages):
     for page_num in range(1, total_pages + 1):
         # Construir a URL com o número da página
 
-        url = link_builder(page_num, config.sort_by, config.min_price,
-                           config.max_price, config.search_term, config.category)
+        url = link_builder(page_num, config.SORT_BY, config.MIN_PRICE,
+                           config.MAX_PRICE, config.SEARCH_TERM, config.CATEGORY)
         print(f"Scraping page {str(page_num)}: {url}")
         # Abrir a página no navegador
         driver.get(url)
@@ -244,12 +244,12 @@ def main():
     # Carregar os cookies a partir do arquivo JSON
     with open("cookies.json", encoding="utf-8") as file:
         cookies = json.load(file)
-    url = link_builder(1, config.sort_by, config.min_price,
-                       config.max_price, config.search_term, config.category)
+    url = link_builder(1, config.SORT_BY, config.MIN_PRICE,
+                       config.MAX_PRICE, config.SEARCH_TERM, config.CATEGORY)
     print(f"Scraping data from {url}")
     # Número total de páginas a processar
-    if config.max_pages:
-        total_pages = min(config.max_pages, find_max_page(chromedriver_path, cookies, url))
+    if config.MAX_PAGES:
+        total_pages = min(config.MAX_PAGES, find_max_page(chromedriver_path, cookies, url))
         print(f"Processing {total_pages} pages")
     else:
         total_pages = find_max_page(chromedriver_path, cookies, url)
@@ -259,12 +259,12 @@ def main():
         print('No items. Please try again with different search parameters.')
         return
     # Salvar os dados em um arquivo JSON
-    if config.search_term and config.max_price is not None and config.min_price is not None:
-        filename = f"{config.search_term}_{config.min_price}_{config.max_price}_data.json"
-    elif config.search_term:
-        filename = f"{config.search_term}_data.json"
-    elif config.category:
-        filename = f"{config.category}_data.json"
+    if config.SEARCH_TERM and config.MAX_PRICE is not None and config.MIN_PRICE is not None:
+        filename = f"{config.SEARCH_TERM}_{config.MIN_PRICE}_{config.MAX_PRICE}_data.json"
+    elif config.SEARCH_TERM:
+        filename = f"{config.SEARCH_TERM}_data.json"
+    elif config.CATEGORY:
+        filename = f"{config.CATEGORY}_data.json"
 
     else:
         filename = "item_data.json"
