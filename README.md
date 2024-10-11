@@ -1,63 +1,63 @@
 # Buff Scraper
 
-Este projeto é um web scraper desenvolvido em Python, utilizando Selenium e BeautifulSoup, para extrair informações de itens de venda do mercado de CS2 no site Buff.163.com.
+This project is a web scraper developed in Python using Selenium and BeautifulSoup to extract sales information from the CS2 market on Buff.163.com.
 
-## Funcionalidades
+## Features
 
-- Extrair nomes e preços de itens listados para venda.
-- Conversão de preços de RMB para BRL usando uma API de taxa de câmbio.
-- Suporte para paginação de múltiplas páginas de resultados.
-- Geração de arquivos JSON com os dados extraídos.
+- Extract item names and prices listed for sale.
+- Convert prices from RMB to BRL using an exchange rate API.
+- Support for pagination across multiple result pages.
+- Generate JSON files with the extracted data.
 
-## Pré-requisitos
+## Prerequisites
 
-- Python 3.7 ou superior
+- Python 3.7 or higher
 - Google Chrome
-- Chromedriver compatível com a versão do Google Chrome instalada
+- Chromedriver compatible with the installed version of Google Chrome
 
-## Instalação
+## Installation
 
-1. Clone o repositório:
+1. Clone the repository:
     ```sh
-    git clone https://github.com/seu-usuario/buffscraper.git
+    git clone https://github.com/your-username/buffscraper.git
     cd buffscraper
     ```
 
-2. Crie um ambiente virtual e ative-o:
+2. Create and activate a virtual environment:
     ```sh
     python -m venv venv
-    source venv/bin/activate  # No Windows use: venv\Scripts\activate
+    source venv/bin/activate  # On Windows use: venv\Scripts\activate
     ```
 
-3. Instale as dependências:
+3. Install the dependencies:
     ```sh
     pip install -r requirements.txt
     ```
 
-4. Coloque o arquivo `chromedriver.exe` na pasta `chromedriver-win64` ou ajuste o caminho no código conforme necessário.
+4. Place the `chromedriver.exe` file in the `chromedriver-win64` folder or adjust the path in the code as needed.
 
-## Uso
+## Usage
 
-### Extração de Dados
+### Data Extraction
 
-1. Configure os cookies no arquivo `cookies.json`.
-2. Execute o script `main.py` para extrair os dados:
+1. Set up the cookies in the `cookies.json` file.
+2. Run the `main.py` script to extract the data:
     ```sh
     python buffscraper/main.py
     ```
 
-### Conversão de Moeda
+### Currency Conversion
 
-1. Execute o script `convert_currency.py` para converter os preços de RMB para BRL:
+1. Run the `convert_currency.py` script to convert prices from RMB to BRL:
     ```sh
     python buffscraper/convert_currency.py
     ```
 
-## Configuração
+## Configuration
 
-### Arquivo `cookies.json`
+### `cookies.json` File
 
-Os cookies devem ser armazenados em um arquivo cookies.json no seguinte formato:
+Cookies should be stored in a `cookies.json` file in the following format:
 
 ```json
 {
@@ -65,19 +65,18 @@ Os cookies devem ser armazenados em um arquivo cookies.json no seguinte formato:
     "session": "cookie_value_2",
     "Locale-Supported": "en"
 }
-```
 
-### Arquivo `config.py`
+### config.py File
 
-Este arquivo contém variáveis de configuração para o scraper, como URL base, sort_by, categoria, etc.
+This file contains configuration variables for the scraper, such as base URL, sort_by, category, etc.
 
 ```python
 # config.py
 
-base_url = "https://buff.163.com/market/csgo#game=csgo&page_num="
-sort_by = "price.desc"
-min_price = None
-max_price = 500
-search_term = "fallen"
-category = None
+BASE_URL = "https://buff.163.com/market/csgo#game=csgo&page_num="
+SORT_BY = "price.desc"
+MIN_PRICE = None
+MAX_PRICE = 500
+SEARCH_TERM = "fallen"
+CATEGORY = None
 ```
