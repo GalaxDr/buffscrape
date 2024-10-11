@@ -65,6 +65,7 @@ Cookies should be stored in a `cookies.json` file in the following format:
     "session": "cookie_value_2",
     "Locale-Supported": "en"
 }
+````
 
 ### config.py File
 
