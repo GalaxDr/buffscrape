@@ -1,1630 +1,358 @@
 [
     {
         "name": "AK-47 | Wild Lotus (Factory New)",
-        "price": "¥ 89988"
+        "price": "R$ 71171.63"
     },
     {
         "name": "AK-47 | Wild Lotus (Minimal Wear)",
-        "price": "¥ 67476.4"
+        "price": "R$ 53649.78"
     },
     {
         "name": "AK-47 | Wild Lotus (Field-Tested)",
-        "price": "¥ 50500"
-    },
-    {
-        "name": "Souvenir AK-47 | Gold Arabesque (Factory New)",
-        "price": "¥ 40520"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Fire Serpent (Factory New)",
-        "price": "¥ 33997"
+        "price": "R$ 39397.44"
     },
     {
         "name": "AK-47 | Wild Lotus (Well-Worn)",
-        "price": "¥ 33500"
+        "price": "R$ 27337.98"
     },
     {
-        "name": "AK-47 | Gold Arabesque (Factory New)",
-        "price": "¥ 22500"
+        "name": "StatTrak™ AK-47 | Fire Serpent (Factory New)",
+        "price": "R$ 24817.53"
+    },
+    {
+        "name": "Souvenir AK-47 | Gold Arabesque (Factory New)",
+        "price": "R$ 23622.05"
     },
     {
         "name": "AK-47 | Wild Lotus (Battle-Scarred)",
-        "price": "¥ 20019"
+        "price": "R$ 15774.99"
+    },
+    {
+        "name": "AK-47 | Gold Arabesque (Factory New)",
+        "price": "R$ 15566.79"
     },
     {
         "name": "StatTrak™ AK-47 | Fire Serpent (Minimal Wear)",
-        "price": "¥ 19850"
+        "price": "R$ 14324.01"
     },
     {
         "name": "Souvenir AK-47 | Gold Arabesque (Minimal Wear)",
-        "price": "¥ 18100"
-    },
-    {
-        "name": "AK-47 | Fire Serpent (Factory New)",
-        "price": "¥ 17888"
+        "price": "R$ 12972.33"
     },
     {
         "name": "AK-47 | Gold Arabesque (Minimal Wear)",
-        "price": "¥ 17777"
+        "price": "R$ 12892.25"
     },
     {
-        "name": "AK-47 | Gold Arabesque (Field-Tested)",
-        "price": "¥ 14369.9"
-    },
-    {
-        "name": "Souvenir AK-47 | Gold Arabesque (Field-Tested)",
-        "price": "¥ 14099"
+        "name": "AK-47 | Fire Serpent (Factory New)",
+        "price": "R$ 11771.19"
     },
     {
         "name": "AK-47 | Hydroponic (Factory New)",
-        "price": "¥ 14098.5"
+        "price": "R$ 10770.23"
     },
     {
-        "name": "Souvenir AK-47 | Gold Arabesque (Well-Worn)",
-        "price": "¥ 13666"
+        "name": "AK-47 | Gold Arabesque (Field-Tested)",
+        "price": "R$ 10568.44"
     },
     {
         "name": "AK-47 | Gold Arabesque (Well-Worn)",
-        "price": "¥ 13325"
+        "price": "R$ 10409.49"
     },
     {
         "name": "AK-47 | X-Ray (Factory New)",
-        "price": "¥ 13000"
+        "price": "R$ 10249.74"
+    },
+    {
+        "name": "Souvenir AK-47 | Gold Arabesque (Field-Tested)",
+        "price": "R$ 10208.1"
     },
     {
         "name": "StatTrak™ AK-47 | Fire Serpent (Field-Tested)",
-        "price": "¥ 13000"
+        "price": "R$ 9200.74"
     },
     {
-        "name": "StatTrak™ AK-47 | Red Laminate (Factory New)",
-        "price": "¥ 12000"
+        "name": "Souvenir AK-47 | Gold Arabesque (Well-Worn)",
+        "price": "R$ 8688.26"
     },
     {
         "name": "AK-47 | Gold Arabesque (Battle-Scarred)",
-        "price": "¥ 11359"
+        "price": "R$ 7967.57"
     },
     {
         "name": "Souvenir AK-47 | Gold Arabesque (Battle-Scarred)",
-        "price": "¥ 11100"
+        "price": "R$ 7927.53"
     },
     {
         "name": "StatTrak™ AK-47 | Fire Serpent (Well-Worn)",
-        "price": "¥ 9855.49"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Wasteland Rebel (Factory New)",
-        "price": "¥ 9499"
+        "price": "R$ 7922.73"
     },
     {
         "name": "AK-47 | Hydroponic (Minimal Wear)",
-        "price": "¥ 9198.5"
+        "price": "R$ 7414.25"
     },
     {
         "name": "StatTrak™ AK-47 | Vulcan (Factory New)",
-        "price": "¥ 9150"
+        "price": "R$ 7204.45"
+    },
+    {
+        "name": "StatTrak™ AK-47 | Wasteland Rebel (Factory New)",
+        "price": "R$ 6406.09"
     },
     {
         "name": "AK-47 | Fire Serpent (Minimal Wear)",
-        "price": "¥ 8377"
+        "price": "R$ 6365.25"
+    },
+    {
+        "name": "StatTrak™ AK-47 | Red Laminate (Factory New)",
+        "price": "R$ 5604.53"
     },
     {
         "name": "AK-47 | X-Ray (Minimal Wear)",
-        "price": "¥ 7150"
+        "price": "R$ 5515.64"
     },
     {
-        "name": "StatTrak™ AK-47 | Fire Serpent (Battle-Scarred)",
-        "price": "¥ 6300"
-    },
-    {
-        "name": "AK-47 | Fire Serpent (Field-Tested)",
-        "price": "¥ 5948.5"
+        "name": "AK-47 | B the Monster (Factory New)",
+        "price": "R$ 5195.34"
     },
     {
         "name": "AK-47 | Hydroponic (Field-Tested)",
-        "price": "¥ 5880"
+        "price": "R$ 4780.54"
     },
     {
-        "name": "StatTrak™ AK-47 | Case Hardened (Factory New)",
-        "price": "¥ 5799"
+        "name": "StatTrak™ AK-47 | Fire Serpent (Battle-Scarred)",
+        "price": "R$ 4644.41"
     },
     {
-        "name": "AK-47 | Jet Set (Factory New)",
-        "price": "¥ 5435.9"
+        "name": "AK-47 | Fire Serpent (Field-Tested)",
+        "price": "R$ 4432.21"
     },
     {
         "name": "StatTrak™ AK-47 | Vulcan (Minimal Wear)",
-        "price": "¥ 5415"
+        "price": "R$ 4203.99"
     },
     {
-        "name": "AK-47 | Hydroponic (Well-Worn)",
-        "price": "¥ 5299"
-    },
-    {
-        "name": "AK-47 | Vulcan (Factory New)",
-        "price": "¥ 5130"
+        "name": "StatTrak™ AK-47 | Case Hardened (Factory New)",
+        "price": "R$ 4074.27"
     },
     {
         "name": "StatTrak™ AK-47 | Fuel Injector (Factory New)",
-        "price": "¥ 5100"
+        "price": "R$ 4027.83"
+    },
+    {
+        "name": "AK-47 | Hydroponic (Well-Worn)",
+        "price": "R$ 3994.2"
+    },
+    {
+        "name": "AK-47 | Vulcan (Factory New)",
+        "price": "R$ 3983.79"
     },
     {
         "name": "AK-47 | Fire Serpent (Well-Worn)",
-        "price": "¥ 4999"
+        "price": "R$ 3800.77"
+    },
+    {
+        "name": "AK-47 | Jet Set (Factory New)",
+        "price": "R$ 3711.13"
     },
     {
         "name": "AK-47 | X-Ray (Field-Tested)",
-        "price": "¥ 4624.5"
+        "price": "R$ 3466.49"
     },
     {
         "name": "Souvenir AK-47 | Black Laminate (Factory New)",
-        "price": "¥ 4300"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Case Hardened (Minimal Wear)",
-        "price": "¥ 3799.2"
+        "price": "R$ 3203.04"
     },
     {
         "name": "AK-47 | Hydroponic (Battle-Scarred)",
-        "price": "¥ 3610.11"
+        "price": "R$ 2762.63"
     },
     {
-        "name": "StatTrak™ AK-47 | Inheritance (Factory New)",
-        "price": "¥ 3500"
+        "name": "StatTrak™ AK-47 | Case Hardened (Minimal Wear)",
+        "price": "R$ 2722.59"
     },
     {
         "name": "AK-47 | Fire Serpent (Battle-Scarred)",
-        "price": "¥ 3442"
+        "price": "R$ 2681"
     },
     {
         "name": "Souvenir AK-47 | Panthera onca (Factory New)",
-        "price": "¥ 3350"
+        "price": "R$ 2626.1"
     },
     {
         "name": "AK-47 | Vulcan (Minimal Wear)",
-        "price": "¥ 3120"
+        "price": "R$ 2402.28"
     },
     {
-        "name": "StatTrak™ AK-47 | Jaguar (Factory New)",
-        "price": "¥ 3100"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Asiimov (Factory New)",
-        "price": "¥ 2950"
-    },
-    {
-        "name": "AK-47 | Fuel Injector (Factory New)",
-        "price": "¥ 2934"
+        "name": "AK-47 | B the Monster (Minimal Wear)",
+        "price": "R$ 2282.17"
     },
     {
         "name": "StatTrak™ AK-47 | Fuel Injector (Minimal Wear)",
-        "price": "¥ 2900"
+        "price": "R$ 2280.57"
     },
     {
-        "name": "StatTrak™ AK-47 | Case Hardened (Field-Tested)",
-        "price": "¥ 2750"
+        "name": "StatTrak™ AK-47 | Inheritance (Factory New)",
+        "price": "R$ 2242.13"
     },
     {
-        "name": "AK-47 | X-Ray (Well-Worn)",
-        "price": "¥ 2747.5"
-    },
-    {
-        "name": "AK-47 | Case Hardened (Factory New)",
-        "price": "¥ 2610"
-    },
-    {
-        "name": "AK-47 | Jet Set (Minimal Wear)",
-        "price": "¥ 2534.9"
-    },
-    {
-        "name": "AK-47 | Red Laminate (Factory New)",
-        "price": "¥ 2471.8"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Case Hardened (Well-Worn)",
-        "price": "¥ 2340"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Vulcan (Field-Tested)",
-        "price": "¥ 2288"
+        "name": "StatTrak™ AK-47 | Asiimov (Factory New)",
+        "price": "R$ 2229.32"
     },
     {
         "name": "StatTrak™ AK-47 | Case Hardened (Battle-Scarred)",
-        "price": "¥ 2188.5"
+        "price": "R$ 2209.68"
     },
     {
-        "name": "AK-47 | Panthera onca (Factory New)",
-        "price": "¥ 2188"
+        "name": "StatTrak™ AK-47 | Case Hardened (Field-Tested)",
+        "price": "R$ 2162.05"
+    },
+    {
+        "name": "StatTrak™ AK-47 | Jaguar (Factory New)",
+        "price": "R$ 2141.23"
+    },
+    {
+        "name": "AK-47 | Fuel Injector (Factory New)",
+        "price": "R$ 2134.83"
+    },
+    {
+        "name": "AK-47 | Jet Set (Minimal Wear)",
+        "price": "R$ 2063.96"
+    },
+    {
+        "name": "AK-47 | X-Ray (Well-Worn)",
+        "price": "R$ 1947.45"
+    },
+    {
+        "name": "AK-47 | Case Hardened (Factory New)",
+        "price": "R$ 1880.59"
+    },
+    {
+        "name": "StatTrak™ AK-47 | Case Hardened (Well-Worn)",
+        "price": "R$ 1841.75"
+    },
+    {
+        "name": "StatTrak™ AK-47 | Vulcan (Field-Tested)",
+        "price": "R$ 1759.19"
     },
     {
         "name": "StatTrak™ AK-47 | Neon Rider (Factory New)",
-        "price": "¥ 2182.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | The Empress (Factory New)",
-        "price": "¥ 2075"
-    },
-    {
-        "name": "AK-47 | Jet Set (Field-Tested)",
-        "price": "¥ 2060"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Fuel Injector (Field-Tested)",
-        "price": "¥ 1999"
-    },
-    {
-        "name": "AK-47 | Case Hardened (Minimal Wear)",
-        "price": "¥ 1898.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Bloodsport (Factory New)",
-        "price": "¥ 1870"
-    },
-    {
-        "name": "AK-47 | X-Ray (Battle-Scarred)",
-        "price": "¥ 1849.99"
-    },
-    {
-        "name": "AK-47 | Case Hardened (Field-Tested)",
-        "price": "¥ 1720"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Inheritance (Minimal Wear)",
-        "price": "¥ 1698"
-    },
-    {
-        "name": "AK-47 | Panthera onca (Minimal Wear)",
-        "price": "¥ 1698"
-    },
-    {
-        "name": "AK-47 | Jet Set (Well-Worn)",
-        "price": "¥ 1696"
+        "price": "R$ 1712.83"
     },
     {
         "name": "AK-47 | Jet Set (Battle-Scarred)",
-        "price": "¥ 1680"
+        "price": "R$ 1680.8"
     },
     {
-        "name": "StatTrak™ AK-47 | Aquamarine Revenge (Factory New)",
-        "price": "¥ 1580"
+        "name": "AK-47 | Jet Set (Well-Worn)",
+        "price": "R$ 1600.72"
     },
     {
-        "name": "AK-47 | Vulcan (Field-Tested)",
-        "price": "¥ 1544.2"
+        "name": "StatTrak™ AK-47 | Fuel Injector (Field-Tested)",
+        "price": "R$ 1585.51"
     },
     {
-        "name": "StatTrak™ AK-47 | Redline (Minimal Wear)",
-        "price": "¥ 1520"
+        "name": "StatTrak™ AK-47 | The Empress (Factory New)",
+        "price": "R$ 1576.3"
     },
     {
-        "name": "AK-47 | Fuel Injector (Minimal Wear)",
-        "price": "¥ 1500"
+        "name": "AK-47 | Panthera onca (Factory New)",
+        "price": "R$ 1537.46"
     },
     {
-        "name": "StatTrak™ AK-47 | Vulcan (Well-Worn)",
-        "price": "¥ 1499"
+        "name": "AK-47 | X-Ray (Battle-Scarred)",
+        "price": "R$ 1537.06"
     },
     {
-        "name": "StatTrak™ AK-47 | Jaguar (Minimal Wear)",
-        "price": "¥ 1498.5"
+        "name": "StatTrak™ AK-47 | Bloodsport (Factory New)",
+        "price": "R$ 1524.65"
     },
     {
-        "name": "StatTrak™ AK-47 | Bloodsport (Minimal Wear)",
-        "price": "¥ 1470"
+        "name": "AK-47 | Red Laminate (Factory New)",
+        "price": "R$ 1521.45"
     },
     {
-        "name": "AK-47 | Wasteland Rebel (Factory New)",
-        "price": "¥ 1450"
+        "name": "AK-47 | Jet Set (Field-Tested)",
+        "price": "R$ 1505.43"
     },
     {
-        "name": "StatTrak™ AK-47 | Red Laminate (Minimal Wear)",
-        "price": "¥ 1424.99"
-    },
-    {
-        "name": "Souvenir AK-47 | Panthera onca (Minimal Wear)",
-        "price": "¥ 1400"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Fuel Injector (Well-Worn)",
-        "price": "¥ 1400"
+        "name": "AK-47 | Case Hardened (Minimal Wear)",
+        "price": "R$ 1386.52"
     },
     {
         "name": "Souvenir AK-47 | Safari Mesh (Factory New)",
-        "price": "¥ 1400"
+        "price": "R$ 1351.68"
     },
     {
-        "name": "AK-47 | Asiimov (Factory New)",
-        "price": "¥ 1337.98"
+        "name": "StatTrak™ AK-47 | Redline (Minimal Wear)",
+        "price": "R$ 1325.26"
     },
     {
-        "name": "AK-47 | Inheritance (Factory New)",
-        "price": "¥ 1333"
+        "name": "AK-47 | Panthera onca (Minimal Wear)",
+        "price": "R$ 1280.42"
     },
     {
-        "name": "AK-47 | Case Hardened (Well-Worn)",
-        "price": "¥ 1303"
-    },
-    {
-        "name": "AK-47 | Case Hardened (Battle-Scarred)",
-        "price": "¥ 1250"
-    },
-    {
-        "name": "AK-47 | Panthera onca (Field-Tested)",
-        "price": "¥ 1249.99"
-    },
-    {
-        "name": "AK-47 | Jaguar (Factory New)",
-        "price": "¥ 1247.5"
+        "name": "StatTrak™ AK-47 | Aquamarine Revenge (Factory New)",
+        "price": "R$ 1278.78"
     },
     {
         "name": "StatTrak™ AK-47 | Bloodsport (Well-Worn)",
-        "price": "¥ 1244.4"
+        "price": "R$ 1241.18"
     },
     {
-        "name": "StatTrak™ AK-47 | Fuel Injector (Battle-Scarred)",
-        "price": "¥ 1200"
+        "name": "AK-47 | Vulcan (Field-Tested)",
+        "price": "R$ 1237.98"
     },
     {
-        "name": "AK-47 | Black Laminate (Factory New)",
-        "price": "¥ 1197"
+        "name": "StatTrak™ AK-47 | Bloodsport (Minimal Wear)",
+        "price": "R$ 1216.75"
     },
     {
-        "name": "StatTrak™ AK-47 | Bloodsport (Field-Tested)",
-        "price": "¥ 1130"
+        "name": "AK-47 | Case Hardened (Field-Tested)",
+        "price": "R$ 1213.55"
     },
     {
-        "name": "AK-47 | Panthera onca (Well-Worn)",
-        "price": "¥ 1122"
+        "name": "StatTrak™ AK-47 | Vulcan (Well-Worn)",
+        "price": "R$ 1191.13"
     },
     {
-        "name": "StatTrak™ AK-47 | Inheritance (Well-Worn)",
-        "price": "¥ 1099"
+        "name": "AK-47 | Fuel Injector (Minimal Wear)",
+        "price": "R$ 1172.31"
     },
     {
-        "name": "AK-47 | First Class (Factory New)",
-        "price": "¥ 1075"
+        "name": "StatTrak™ AK-47 | Inheritance (Minimal Wear)",
+        "price": "R$ 1161.1"
     },
     {
-        "name": "AK-47 | Fuel Injector (Field-Tested)",
-        "price": "¥ 1035"
+        "name": "StatTrak™ AK-47 | Fuel Injector (Well-Worn)",
+        "price": "R$ 1128.67"
     },
     {
-        "name": "StatTrak™ AK-47 | Leet Museo (Factory New)",
-        "price": "¥ 1002.5"
+        "name": "StatTrak™ AK-47 | Red Laminate (Minimal Wear)",
+        "price": "R$ 1119.06"
     },
     {
-        "name": "AK-47 | Panthera onca (Battle-Scarred)",
-        "price": "¥ 970"
+        "name": "StatTrak™ AK-47 | Jaguar (Minimal Wear)",
+        "price": "R$ 1088.95"
     },
     {
-        "name": "StatTrak™ AK-47 | Neon Revolution (Factory New)",
-        "price": "¥ 951"
+        "name": "Souvenir AK-47 | Panthera onca (Minimal Wear)",
+        "price": "R$ 1072.62"
     },
     {
-        "name": "Souvenir AK-47 | Panthera onca (Field-Tested)",
-        "price": "¥ 950"
+        "name": "AK-47 | B the Monster (Field-Tested)",
+        "price": "R$ 1056.6"
     },
     {
-        "name": "StatTrak™ AK-47 | Neon Rider (Minimal Wear)",
-        "price": "¥ 944.5"
+        "name": "AK-47 | Wasteland Rebel (Factory New)",
+        "price": "R$ 1039.39"
     },
     {
-        "name": "StatTrak™ AK-47 | Head Shot (Factory New)",
-        "price": "¥ 920"
+        "name": "AK-47 | Jaguar (Factory New)",
+        "price": "R$ 1000.95"
     },
     {
-        "name": "StatTrak™ AK-47 | Vulcan (Battle-Scarred)",
-        "price": "¥ 915.85"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Nightwish (Factory New)",
-        "price": "¥ 910"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Wasteland Rebel (Well-Worn)",
-        "price": "¥ 906"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Inheritance (Field-Tested)",
-        "price": "¥ 904"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Wasteland Rebel (Minimal Wear)",
-        "price": "¥ 896.1"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Aquamarine Revenge (Minimal Wear)",
-        "price": "¥ 883.99"
-    },
-    {
-        "name": "AK-47 | Neon Rider (Factory New)",
-        "price": "¥ 872"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Frontside Misty (Factory New)",
-        "price": "¥ 861.9"
-    },
-    {
-        "name": "AK-47 | Bloodsport (Factory New)",
-        "price": "¥ 857"
-    },
-    {
-        "name": "AK-47 | Vulcan (Well-Worn)",
-        "price": "¥ 853.9"
-    },
-    {
-        "name": "AK-47 | The Empress (Factory New)",
-        "price": "¥ 848.9"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Jaguar (Field-Tested)",
-        "price": "¥ 817.9"
-    },
-    {
-        "name": "StatTrak™ AK-47 | The Empress (Minimal Wear)",
-        "price": "¥ 789.94"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Red Laminate (Field-Tested)",
-        "price": "¥ 776.5"
-    },
-    {
-        "name": "AK-47 | Inheritance (Minimal Wear)",
-        "price": "¥ 766"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Red Laminate (Battle-Scarred)",
-        "price": "¥ 764.39"
-    },
-    {
-        "name": "AK-47 | Fuel Injector (Well-Worn)",
-        "price": "¥ 762.98"
-    },
-    {
-        "name": "Souvenir AK-47 | Panthera onca (Well-Worn)",
-        "price": "¥ 755"
-    },
-    {
-        "name": "AK-47 | Jungle Spray (Factory New)",
-        "price": "¥ 739.4"
-    },
-    {
-        "name": "AK-47 | First Class (Minimal Wear)",
-        "price": "¥ 719.48"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Red Laminate (Well-Worn)",
-        "price": "¥ 709"
-    },
-    {
-        "name": "AK-47 | Bloodsport (Minimal Wear)",
-        "price": "¥ 704.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Inheritance (Battle-Scarred)",
-        "price": "¥ 698"
-    },
-    {
-        "name": "Souvenir AK-47 | Panthera onca (Battle-Scarred)",
-        "price": "¥ 657.15"
-    },
-    {
-        "name": "AK-47 | Bloodsport (Field-Tested)",
-        "price": "¥ 649"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Asiimov (Minimal Wear)",
-        "price": "¥ 648"
-    },
-    {
-        "name": "AK-47 | Fuel Injector (Battle-Scarred)",
-        "price": "¥ 641"
-    },
-    {
-        "name": "AK-47 | Aquamarine Revenge (Factory New)",
-        "price": "¥ 615"
-    },
-    {
-        "name": "AK-47 | Bloodsport (Well-Worn)",
-        "price": "¥ 604.9"
-    },
-    {
-        "name": "AK-47 | Redline (Minimal Wear)",
-        "price": "¥ 597.5"
-    },
-    {
-        "name": "AK-47 | Vulcan (Battle-Scarred)",
-        "price": "¥ 568"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Leet Museo (Well-Worn)",
-        "price": "¥ 565"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Leet Museo (Minimal Wear)",
-        "price": "¥ 542"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Jaguar (Well-Worn)",
-        "price": "¥ 540"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Wasteland Rebel (Battle-Scarred)",
-        "price": "¥ 539.49"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Wasteland Rebel (Field-Tested)",
-        "price": "¥ 535"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Point Disarray (Factory New)",
-        "price": "¥ 534.97"
-    },
-    {
-        "name": "AK-47 | Jaguar (Minimal Wear)",
-        "price": "¥ 530"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Jaguar (Battle-Scarred)",
-        "price": "¥ 527.5"
-    },
-    {
-        "name": "AK-47 | First Class (Field-Tested)",
-        "price": "¥ 517.99"
-    },
-    {
-        "name": "AK-47 | Leet Museo (Factory New)",
-        "price": "¥ 516.01"
-    },
-    {
-        "name": "StatTrak™ AK-47 | The Empress (Field-Tested)",
-        "price": "¥ 507.5"
-    },
-    {
-        "name": "AK-47 | First Class (Well-Worn)",
-        "price": "¥ 500"
-    },
-    {
-        "name": "AK-47 | Inheritance (Field-Tested)",
-        "price": "¥ 489.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Aquamarine Revenge (Field-Tested)",
-        "price": "¥ 484"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Cartel (Factory New)",
-        "price": "¥ 483"
-    },
-    {
-        "name": "AK-47 | Neon Rider (Minimal Wear)",
-        "price": "¥ 479.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Neon Rider (Field-Tested)",
-        "price": "¥ 469.9"
-    },
-    {
-        "name": "AK-47 | Neon Revolution (Factory New)",
-        "price": "¥ 453.3"
-    },
-    {
-        "name": "AK-47 | Head Shot (Factory New)",
-        "price": "¥ 443"
-    },
-    {
-        "name": "AK-47 | Inheritance (Well-Worn)",
-        "price": "¥ 439"
-    },
-    {
-        "name": "AK-47 | Frontside Misty (Factory New)",
-        "price": "¥ 439"
-    },
-    {
-        "name": "AK-47 | Aquamarine Revenge (Minimal Wear)",
-        "price": "¥ 438.33"
-    },
-    {
-        "name": "AK-47 | Red Laminate (Minimal Wear)",
-        "price": "¥ 437"
-    },
-    {
-        "name": "AK-47 | Nightwish (Factory New)",
-        "price": "¥ 434.5"
-    },
-    {
-        "name": "AK-47 | First Class (Battle-Scarred)",
-        "price": "¥ 424.4"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Neon Rider (Well-Worn)",
-        "price": "¥ 418.98"
-    },
-    {
-        "name": "AK-47 | The Empress (Minimal Wear)",
-        "price": "¥ 413.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Orbit Mk01 (Factory New)",
-        "price": "¥ 409"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Neon Revolution (Minimal Wear)",
-        "price": "¥ 408"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Blue Laminate (Well-Worn)",
-        "price": "¥ 404"
-    },
-    {
-        "name": "AK-47 | Asiimov (Minimal Wear)",
-        "price": "¥ 394"
-    },
-    {
-        "name": "AK-47 | Jaguar (Field-Tested)",
-        "price": "¥ 390"
-    },
-    {
-        "name": "AK-47 | Inheritance (Battle-Scarred)",
-        "price": "¥ 389.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Neon Rider (Battle-Scarred)",
-        "price": "¥ 384.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | The Empress (Well-Worn)",
-        "price": "¥ 378.6"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Asiimov (Field-Tested)",
-        "price": "¥ 378"
-    },
-    {
-        "name": "Souvenir AK-47 | Safety Net (Factory New)",
-        "price": "¥ 376.4"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Head Shot (Minimal Wear)",
-        "price": "¥ 375"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Asiimov (Well-Worn)",
-        "price": "¥ 374.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Frontside Misty (Minimal Wear)",
-        "price": "¥ 365.7"
-    },
-    {
-        "name": "StatTrak™ AK-47 | The Empress (Battle-Scarred)",
-        "price": "¥ 361.59"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Asiimov (Battle-Scarred)",
-        "price": "¥ 353.99"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Orbit Mk01 (Well-Worn)",
-        "price": "¥ 350"
-    },
-    {
-        "name": "AK-47 | Predator (Factory New)",
-        "price": "¥ 350"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Legion of Anubis (Factory New)",
-        "price": "¥ 338"
-    },
-    {
-        "name": "AK-47 | Neon Rider (Field-Tested)",
-        "price": "¥ 325.49"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Nightwish (Minimal Wear)",
-        "price": "¥ 325.4"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Leet Museo (Field-Tested)",
-        "price": "¥ 324.9"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Aquamarine Revenge (Well-Worn)",
-        "price": "¥ 316.22"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Ice Coaled (Factory New)",
-        "price": "¥ 311.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Aquamarine Revenge (Battle-Scarred)",
-        "price": "¥ 309.99"
-    },
-    {
-        "name": "AK-47 | Wasteland Rebel (Minimal Wear)",
-        "price": "¥ 303.99"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Cartel (Minimal Wear)",
-        "price": "¥ 297"
-    },
-    {
-        "name": "AK-47 | Red Laminate (Well-Worn)",
-        "price": "¥ 295"
-    },
-    {
-        "name": "AK-47 | Red Laminate (Battle-Scarred)",
-        "price": "¥ 288.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Neon Revolution (Well-Worn)",
-        "price": "¥ 285"
-    },
-    {
-        "name": "AK-47 | Red Laminate (Field-Tested)",
-        "price": "¥ 280.37"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Leet Museo (Battle-Scarred)",
-        "price": "¥ 279.98"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Orbit Mk01 (Minimal Wear)",
-        "price": "¥ 275.7"
-    },
-    {
-        "name": "AK-47 | Leet Museo (Minimal Wear)",
-        "price": "¥ 275.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Redline (Field-Tested)",
-        "price": "¥ 275"
-    },
-    {
-        "name": "AK-47 | Neon Rider (Well-Worn)",
-        "price": "¥ 273.49"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Point Disarray (Minimal Wear)",
-        "price": "¥ 266"
-    },
-    {
-        "name": "Souvenir AK-47 | Black Laminate (Minimal Wear)",
-        "price": "¥ 255.5"
-    },
-    {
-        "name": "AK-47 | Jaguar (Well-Worn)",
-        "price": "¥ 251"
-    },
-    {
-        "name": "AK-47 | Aquamarine Revenge (Field-Tested)",
-        "price": "¥ 243.7"
-    },
-    {
-        "name": "AK-47 | Neon Revolution (Minimal Wear)",
-        "price": "¥ 243.49"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Cartel (Well-Worn)",
-        "price": "¥ 242.88"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Orbit Mk01 (Battle-Scarred)",
-        "price": "¥ 240"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Blue Laminate (Factory New)",
-        "price": "¥ 238.8"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Slate (Factory New)",
-        "price": "¥ 235"
-    },
-    {
-        "name": "AK-47 | Jaguar (Battle-Scarred)",
-        "price": "¥ 234.99"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Neon Revolution (Battle-Scarred)",
-        "price": "¥ 234.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Redline (Well-Worn)",
-        "price": "¥ 228"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Neon Revolution (Field-Tested)",
-        "price": "¥ 226.99"
-    },
-    {
-        "name": "AK-47 | Black Laminate (Minimal Wear)",
-        "price": "¥ 219.8"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Orbit Mk01 (Field-Tested)",
-        "price": "¥ 218.5"
-    },
-    {
-        "name": "AK-47 | The Empress (Field-Tested)",
-        "price": "¥ 217"
-    },
-    {
-        "name": "AK-47 | Point Disarray (Factory New)",
-        "price": "¥ 213"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Phantom Disruptor (Factory New)",
-        "price": "¥ 209"
-    },
-    {
-        "name": "AK-47 | Wasteland Rebel (Well-Worn)",
-        "price": "¥ 208"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Cartel (Battle-Scarred)",
-        "price": "¥ 204.9"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Rat Rod (Factory New)",
-        "price": "¥ 204"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Cartel (Field-Tested)",
-        "price": "¥ 202.35"
-    },
-    {
-        "name": "AK-47 | Asiimov (Field-Tested)",
-        "price": "¥ 195"
-    },
-    {
-        "name": "Souvenir AK-47 | Green Laminate (Well-Worn)",
-        "price": "¥ 187.99"
-    },
-    {
-        "name": "AK-47 | Black Laminate (Well-Worn)",
-        "price": "¥ 183.99"
-    },
-    {
-        "name": "AK-47 | Black Laminate (Field-Tested)",
-        "price": "¥ 180.9"
-    },
-    {
-        "name": "AK-47 | Green Laminate (Well-Worn)",
-        "price": "¥ 180.85"
-    },
-    {
-        "name": "AK-47 | Wasteland Rebel (Battle-Scarred)",
-        "price": "¥ 180.49"
-    },
-    {
-        "name": "AK-47 | Head Shot (Minimal Wear)",
-        "price": "¥ 180"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Frontside Misty (Field-Tested)",
-        "price": "¥ 178.97"
-    },
-    {
-        "name": "AK-47 | Black Laminate (Battle-Scarred)",
-        "price": "¥ 176"
-    },
-    {
-        "name": "AK-47 | Asiimov (Well-Worn)",
-        "price": "¥ 174.84"
-    },
-    {
-        "name": "AK-47 | The Empress (Well-Worn)",
-        "price": "¥ 173.8"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Legion of Anubis (Minimal Wear)",
-        "price": "¥ 171"
-    },
-    {
-        "name": "AK-47 | Wasteland Rebel (Field-Tested)",
-        "price": "¥ 170.88"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Head Shot (Field-Tested)",
-        "price": "¥ 170"
-    },
-    {
-        "name": "Souvenir AK-47 | Black Laminate (Well-Worn)",
-        "price": "¥ 169.98"
-    },
-    {
-        "name": "AK-47 | Frontside Misty (Minimal Wear)",
-        "price": "¥ 169.9"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Frontside Misty (Well-Worn)",
-        "price": "¥ 165"
-    },
-    {
-        "name": "Souvenir AK-47 | Black Laminate (Field-Tested)",
-        "price": "¥ 164.48"
-    },
-    {
-        "name": "AK-47 | Cartel (Factory New)",
-        "price": "¥ 164.16"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Point Disarray (Well-Worn)",
-        "price": "¥ 164"
-    },
-    {
-        "name": "AK-47 | The Empress (Battle-Scarred)",
-        "price": "¥ 160"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Blue Laminate (Minimal Wear)",
-        "price": "¥ 159.9"
-    },
-    {
-        "name": "Souvenir AK-47 | Black Laminate (Battle-Scarred)",
-        "price": "¥ 155.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Frontside Misty (Battle-Scarred)",
-        "price": "¥ 153"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Redline (Battle-Scarred)",
-        "price": "¥ 151.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Elite Build (Factory New)",
-        "price": "¥ 150"
-    },
-    {
-        "name": "AK-47 | Green Laminate (Factory New)",
-        "price": "¥ 148.3"
-    },
-    {
-        "name": "AK-47 | Orbit Mk01 (Factory New)",
-        "price": "¥ 148"
-    },
-    {
-        "name": "AK-47 | Neon Rider (Battle-Scarred)",
-        "price": "¥ 145.8"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Blue Laminate (Field-Tested)",
-        "price": "¥ 144.95"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Ice Coaled (Minimal Wear)",
-        "price": "¥ 142.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Legion of Anubis (Well-Worn)",
-        "price": "¥ 136.5"
-    },
-    {
-        "name": "Souvenir AK-47 | Safety Net (Well-Worn)",
-        "price": "¥ 136.3"
-    },
-    {
-        "name": "AK-47 | Aquamarine Revenge (Well-Worn)",
-        "price": "¥ 135.6"
-    },
-    {
-        "name": "Souvenir AK-47 | Safety Net (Minimal Wear)",
-        "price": "¥ 135.35"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Nightwish (Field-Tested)",
-        "price": "¥ 132.96"
-    },
-    {
-        "name": "AK-47 | Nightwish (Minimal Wear)",
-        "price": "¥ 132.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Point Disarray (Field-Tested)",
-        "price": "¥ 130.5"
-    },
-    {
-        "name": "AK-47 | Redline (Field-Tested)",
-        "price": "¥ 129.5"
-    },
-    {
-        "name": "AK-47 | Asiimov (Battle-Scarred)",
-        "price": "¥ 126.48"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Point Disarray (Battle-Scarred)",
-        "price": "¥ 123.99"
-    },
-    {
-        "name": "AK-47 | Neon Revolution (Well-Worn)",
-        "price": "¥ 123.5"
-    },
-    {
-        "name": "Souvenir AK-47 | Green Laminate (Factory New)",
-        "price": "¥ 122.99"
-    },
-    {
-        "name": "Souvenir AK-47 | Safari Mesh (Minimal Wear)",
-        "price": "¥ 118"
-    },
-    {
-        "name": "AK-47 | Predator (Minimal Wear)",
-        "price": "¥ 117.75"
-    },
-    {
-        "name": "AK-47 | Leet Museo (Field-Tested)",
-        "price": "¥ 115.8"
-    },
-    {
-        "name": "AK-47 | Leet Museo (Well-Worn)",
-        "price": "¥ 114.39"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Head Shot (Well-Worn)",
-        "price": "¥ 114"
-    },
-    {
-        "name": "AK-47 | Predator (Well-Worn)",
-        "price": "¥ 111.3"
-    },
-    {
-        "name": "AK-47 | Ice Coaled (Factory New)",
-        "price": "¥ 111"
-    },
-    {
-        "name": "AK-47 | Leet Museo (Battle-Scarred)",
-        "price": "¥ 109.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Head Shot (Battle-Scarred)",
-        "price": "¥ 109"
-    },
-    {
-        "name": "AK-47 | Green Laminate (Minimal Wear)",
-        "price": "¥ 108.57"
-    },
-    {
-        "name": "AK-47 | Predator (Field-Tested)",
-        "price": "¥ 107.99"
-    },
-    {
-        "name": "AK-47 | Predator (Battle-Scarred)",
-        "price": "¥ 107.92"
-    },
-    {
-        "name": "AK-47 | Green Laminate (Field-Tested)",
-        "price": "¥ 103"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Legion of Anubis (Field-Tested)",
-        "price": "¥ 102"
-    },
-    {
-        "name": "AK-47 | Legion of Anubis (Factory New)",
-        "price": "¥ 102"
-    },
-    {
-        "name": "AK-47 | Neon Revolution (Field-Tested)",
-        "price": "¥ 99.89"
-    },
-    {
-        "name": "AK-47 | Baroque Purple (Factory New)",
-        "price": "¥ 99.79"
-    },
-    {
-        "name": "Souvenir AK-47 | Safety Net (Battle-Scarred)",
-        "price": "¥ 97.8"
-    },
-    {
-        "name": "AK-47 | Point Disarray (Minimal Wear)",
-        "price": "¥ 97"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Rat Rod (Minimal Wear)",
-        "price": "¥ 96.23"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Phantom Disruptor (Minimal Wear)",
-        "price": "¥ 95.89"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Slate (Minimal Wear)",
-        "price": "¥ 94.57"
-    },
-    {
-        "name": "AK-47 | Orbit Mk01 (Minimal Wear)",
-        "price": "¥ 93.99"
-    },
-    {
-        "name": "AK-47 | Redline (Well-Worn)",
-        "price": "¥ 91.79"
-    },
-    {
-        "name": "AK-47 | Aquamarine Revenge (Battle-Scarred)",
-        "price": "¥ 91.74"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Nightwish (Well-Worn)",
-        "price": "¥ 91"
-    },
-    {
-        "name": "AK-47 | Blue Laminate (Well-Worn)",
-        "price": "¥ 89.7"
-    },
-    {
-        "name": "AK-47 | Orbit Mk01 (Well-Worn)",
-        "price": "¥ 89"
-    },
-    {
-        "name": "AK-47 | Cartel (Well-Worn)",
-        "price": "¥ 86"
-    },
-    {
-        "name": "AK-47 | Cartel (Minimal Wear)",
-        "price": "¥ 85.38"
-    },
-    {
-        "name": "AK-47 | Neon Revolution (Battle-Scarred)",
-        "price": "¥ 83.33"
-    },
-    {
-        "name": "AK-47 | Jungle Spray (Minimal Wear)",
-        "price": "¥ 81.46"
-    },
-    {
-        "name": "AK-47 | Orbit Mk01 (Battle-Scarred)",
-        "price": "¥ 80.42"
-    },
-    {
-        "name": "Souvenir AK-47 | Steel Delta (Factory New)",
-        "price": "¥ 78.79"
-    },
-    {
-        "name": "AK-47 | Blue Laminate (Factory New)",
-        "price": "¥ 77.78"
-    },
-    {
-        "name": "AK-47 | Frontside Misty (Field-Tested)",
-        "price": "¥ 76.2"
-    },
-    {
-        "name": "AK-47 | Orbit Mk01 (Field-Tested)",
-        "price": "¥ 75.8"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Ice Coaled (Well-Worn)",
-        "price": "¥ 75"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Legion of Anubis (Battle-Scarred)",
-        "price": "¥ 73.85"
-    },
-    {
-        "name": "Souvenir AK-47 | Safety Net (Field-Tested)",
-        "price": "¥ 73"
-    },
-    {
-        "name": "AK-47 | Redline (Battle-Scarred)",
-        "price": "¥ 72.88"
-    },
-    {
-        "name": "Souvenir AK-47 | Green Laminate (Minimal Wear)",
-        "price": "¥ 72.48"
-    },
-    {
-        "name": "AK-47 | Cartel (Battle-Scarred)",
-        "price": "¥ 70.8"
-    },
-    {
-        "name": "Souvenir AK-47 | Green Laminate (Field-Tested)",
-        "price": "¥ 70.77"
-    },
-    {
-        "name": "AK-47 | Rat Rod (Factory New)",
-        "price": "¥ 70.53"
-    },
-    {
-        "name": "Souvenir AK-47 | Safari Mesh (Battle-Scarred)",
-        "price": "¥ 70.5"
-    },
-    {
-        "name": "AK-47 | Head Shot (Field-Tested)",
-        "price": "¥ 69.9"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Phantom Disruptor (Well-Worn)",
-        "price": "¥ 68.9"
-    },
-    {
-        "name": "AK-47 | Frontside Misty (Well-Worn)",
-        "price": "¥ 68.8"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Ice Coaled (Field-Tested)",
-        "price": "¥ 68.4"
-    },
-    {
-        "name": "Souvenir AK-47 | Safari Mesh (Well-Worn)",
-        "price": "¥ 68"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Nightwish (Battle-Scarred)",
-        "price": "¥ 67.9"
-    },
-    {
-        "name": "AK-47 | Blue Laminate (Minimal Wear)",
-        "price": "¥ 67.21"
-    },
-    {
-        "name": "AK-47 | Cartel (Field-Tested)",
-        "price": "¥ 65.68"
-    },
-    {
-        "name": "AK-47 | Point Disarray (Well-Worn)",
-        "price": "¥ 65"
-    },
-    {
-        "name": "AK-47 | Phantom Disruptor (Factory New)",
-        "price": "¥ 64.5"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Ice Coaled (Battle-Scarred)",
-        "price": "¥ 62.84"
-    },
-    {
-        "name": "AK-47 | Blue Laminate (Field-Tested)",
-        "price": "¥ 62"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Rat Rod (Battle-Scarred)",
-        "price": "¥ 61.44"
-    },
-    {
-        "name": "AK-47 | Slate (Factory New)",
-        "price": "¥ 60.6"
-    },
-    {
-        "name": "AK-47 | Ice Coaled (Minimal Wear)",
-        "price": "¥ 59.9"
-    },
-    {
-        "name": "AK-47 | Emerald Pinstripe (Factory New)",
-        "price": "¥ 59.8"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Rat Rod (Field-Tested)",
-        "price": "¥ 58.44"
-    },
-    {
-        "name": "AK-47 | Nightwish (Field-Tested)",
-        "price": "¥ 58"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Rat Rod (Well-Worn)",
-        "price": "¥ 56.7"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Slate (Field-Tested)",
-        "price": "¥ 56.68"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Phantom Disruptor (Battle-Scarred)",
-        "price": "¥ 56"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Phantom Disruptor (Field-Tested)",
-        "price": "¥ 56"
-    },
-    {
-        "name": "AK-47 | Legion of Anubis (Minimal Wear)",
-        "price": "¥ 53.2"
-    },
-    {
-        "name": "AK-47 | Point Disarray (Field-Tested)",
-        "price": "¥ 51.5"
-    },
-    {
-        "name": "Souvenir AK-47 | Safari Mesh (Field-Tested)",
-        "price": "¥ 49.7"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Slate (Battle-Scarred)",
-        "price": "¥ 49"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Slate (Well-Worn)",
-        "price": "¥ 49"
-    },
-    {
-        "name": "AK-47 | Frontside Misty (Battle-Scarred)",
-        "price": "¥ 49"
-    },
-    {
-        "name": "AK-47 | Point Disarray (Battle-Scarred)",
-        "price": "¥ 43.2"
-    },
-    {
-        "name": "AK-47 | Head Shot (Well-Worn)",
-        "price": "¥ 43"
-    },
-    {
-        "name": "Souvenir AK-47 | Steel Delta (Well-Worn)",
-        "price": "¥ 40.95"
-    },
-    {
-        "name": "AK-47 | Baroque Purple (Minimal Wear)",
-        "price": "¥ 40.9"
-    },
-    {
-        "name": "AK-47 | Nightwish (Well-Worn)",
-        "price": "¥ 40.4"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Elite Build (Minimal Wear)",
-        "price": "¥ 39.98"
-    },
-    {
-        "name": "AK-47 | Baroque Purple (Field-Tested)",
-        "price": "¥ 39.9"
-    },
-    {
-        "name": "AK-47 | Baroque Purple (Well-Worn)",
-        "price": "¥ 39.08"
-    },
-    {
-        "name": "AK-47 | Safety Net (Factory New)",
-        "price": "¥ 38.99"
-    },
-    {
-        "name": "AK-47 | Baroque Purple (Battle-Scarred)",
-        "price": "¥ 38.37"
-    },
-    {
-        "name": "AK-47 | Legion of Anubis (Well-Worn)",
-        "price": "¥ 37.48"
-    },
-    {
-        "name": "Souvenir AK-47 | Steel Delta (Battle-Scarred)",
-        "price": "¥ 36.82"
-    },
-    {
-        "name": "AK-47 | Phantom Disruptor (Minimal Wear)",
-        "price": "¥ 35.9"
-    },
-    {
-        "name": "AK-47 | Legion of Anubis (Field-Tested)",
-        "price": "¥ 35"
-    },
-    {
-        "name": "AK-47 | Jungle Spray (Well-Worn)",
-        "price": "¥ 34.77"
-    },
-    {
-        "name": "AK-47 | Head Shot (Battle-Scarred)",
-        "price": "¥ 33.9"
-    },
-    {
-        "name": "AK-47 | Ice Coaled (Field-Tested)",
-        "price": "¥ 33.6"
-    },
-    {
-        "name": "Souvenir AK-47 | Steel Delta (Minimal Wear)",
-        "price": "¥ 33.08"
-    },
-    {
-        "name": "AK-47 | Elite Build (Factory New)",
-        "price": "¥ 33"
-    },
-    {
-        "name": "AK-47 | Ice Coaled (Well-Worn)",
-        "price": "¥ 31.9"
-    },
-    {
-        "name": "AK-47 | Rat Rod (Minimal Wear)",
-        "price": "¥ 30.8"
-    },
-    {
-        "name": "AK-47 | Jungle Spray (Field-Tested)",
-        "price": "¥ 29.47"
-    },
-    {
-        "name": "AK-47 | Emerald Pinstripe (Minimal Wear)",
-        "price": "¥ 29.1"
-    },
-    {
-        "name": "AK-47 | Nightwish (Battle-Scarred)",
-        "price": "¥ 29.09"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Uncharted (Factory New)",
-        "price": "¥ 28.69"
-    },
-    {
-        "name": "AK-47 | Phantom Disruptor (Well-Worn)",
-        "price": "¥ 27.65"
-    },
-    {
-        "name": "AK-47 | Jungle Spray (Battle-Scarred)",
-        "price": "¥ 27.16"
-    },
-    {
-        "name": "AK-47 | Slate (Minimal Wear)",
-        "price": "¥ 27"
-    },
-    {
-        "name": "AK-47 | Safety Net (Minimal Wear)",
-        "price": "¥ 25.9"
-    },
-    {
-        "name": "AK-47 | Legion of Anubis (Battle-Scarred)",
-        "price": "¥ 25.4"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Elite Build (Field-Tested)",
-        "price": "¥ 22.43"
-    },
-    {
-        "name": "Souvenir AK-47 | Steel Delta (Field-Tested)",
-        "price": "¥ 22.13"
-    },
-    {
-        "name": "AK-47 | Phantom Disruptor (Field-Tested)",
-        "price": "¥ 22"
-    },
-    {
-        "name": "AK-47 | Ice Coaled (Battle-Scarred)",
-        "price": "¥ 21.8"
-    },
-    {
-        "name": "AK-47 | Phantom Disruptor (Battle-Scarred)",
-        "price": "¥ 20"
-    },
-    {
-        "name": "AK-47 | Safety Net (Well-Worn)",
-        "price": "¥ 19"
-    },
-    {
-        "name": "AK-47 | Rat Rod (Field-Tested)",
-        "price": "¥ 18.4"
-    },
-    {
-        "name": "AK-47 | Rat Rod (Well-Worn)",
-        "price": "¥ 17.6"
-    },
-    {
-        "name": "AK-47 | Emerald Pinstripe (Field-Tested)",
-        "price": "¥ 17.2"
-    },
-    {
-        "name": "AK-47 | Rat Rod (Battle-Scarred)",
-        "price": "¥ 17"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Elite Build (Well-Worn)",
-        "price": "¥ 16.13"
-    },
-    {
-        "name": "AK-47 | Slate (Field-Tested)",
-        "price": "¥ 15.89"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Elite Build (Battle-Scarred)",
-        "price": "¥ 15.43"
-    },
-    {
-        "name": "AK-47 | Safety Net (Field-Tested)",
-        "price": "¥ 15.13"
-    },
-    {
-        "name": "AK-47 | Steel Delta (Factory New)",
-        "price": "¥ 14.89"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Uncharted (Well-Worn)",
-        "price": "¥ 14.8"
-    },
-    {
-        "name": "AK-47 | Slate (Well-Worn)",
-        "price": "¥ 14.5"
-    },
-    {
-        "name": "AK-47 | Safety Net (Battle-Scarred)",
-        "price": "¥ 14.5"
-    },
-    {
-        "name": "AK-47 | Slate (Battle-Scarred)",
-        "price": "¥ 14.39"
-    },
-    {
-        "name": "AK-47 | Emerald Pinstripe (Well-Worn)",
-        "price": "¥ 13.9"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Uncharted (Minimal Wear)",
-        "price": "¥ 13.04"
-    },
-    {
-        "name": "AK-47 | Emerald Pinstripe (Battle-Scarred)",
-        "price": "¥ 12.58"
-    },
-    {
-        "name": "AK-47 | Elite Build (Minimal Wear)",
-        "price": "¥ 10.9"
-    },
-    {
-        "name": "AK-47 | Safari Mesh (Factory New)",
-        "price": "¥ 10.88"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Uncharted (Battle-Scarred)",
-        "price": "¥ 10.74"
-    },
-    {
-        "name": "StatTrak™ AK-47 | Uncharted (Field-Tested)",
-        "price": "¥ 10.69"
-    },
-    {
-        "name": "AK-47 | Steel Delta (Minimal Wear)",
-        "price": "¥ 10.3"
-    },
-    {
-        "name": "AK-47 | Steel Delta (Well-Worn)",
-        "price": "¥ 8.74"
-    },
-    {
-        "name": "AK-47 | Steel Delta (Battle-Scarred)",
-        "price": "¥ 7.99"
-    },
-    {
-        "name": "AK-47 | Steel Delta (Field-Tested)",
-        "price": "¥ 7.15"
-    },
-    {
-        "name": "AK-47 | Elite Build (Field-Tested)",
-        "price": "¥ 6.81"
-    },
-    {
-        "name": "AK-47 | Uncharted (Factory New)",
-        "price": "¥ 6.41"
-    },
-    {
-        "name": "AK-47 | Elite Build (Well-Worn)",
-        "price": "¥ 5"
-    },
-    {
-        "name": "AK-47 | Elite Build (Battle-Scarred)",
-        "price": "¥ 4.64"
-    },
-    {
-        "name": "AK-47 | Uncharted (Well-Worn)",
-        "price": "¥ 4.32"
-    },
-    {
-        "name": "AK-47 | Uncharted (Minimal Wear)",
-        "price": "¥ 2.92"
-    },
-    {
-        "name": "AK-47 | Uncharted (Battle-Scarred)",
-        "price": "¥ 1.51"
-    },
-    {
-        "name": "AK-47 | Uncharted (Field-Tested)",
-        "price": "¥ 1.44"
-    },
-    {
-        "name": "AK-47 | Safari Mesh (Minimal Wear)",
-        "price": "¥ 1.19"
-    },
-    {
-        "name": "AK-47 | Safari Mesh (Well-Worn)",
-        "price": "¥ 0.36"
-    },
-    {
-        "name": "AK-47 | Safari Mesh (Field-Tested)",
-        "price": "¥ 0.35"
-    },
-    {
-        "name": "AK-47 | Safari Mesh (Battle-Scarred)",
-        "price": "¥ 0.31"
+        "name": "AK-47 | Panthera onca (Field-Tested)",
+        "price": "R$ 1000.14"
     }
 ]

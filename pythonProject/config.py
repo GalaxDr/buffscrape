@@ -1,15 +1,16 @@
-max_pages = None
-sort_by = "price.desc"
-min_price = 100000
-max_price = None
-search_term = None
-category = None
+MAX_PAGES = None
+SORT_BY = "price.desc"
+MIN_PRICE = 1000
+MAX_PRICE = None
+SEARCH_TERM = None
+CATEGORY_GROUP = "hands"
+CATEGORY = None
 
 # Case Examples
-# max_pages = 100
-# sort_by = "price.asc" or "price.desc"
-# min_price = 100
-# max_price = 1000
-# search_term = "fallen"
-# category = "sticker"
+# MAX_PAGES = 2
+# SORT_BY = "price.asc"
+# MIN_PRICE = 100
+# MAX_PRICE = 200
+# SEARCH_TERM = "fallen"
+# CATEGORY = "weapon_awp"
 
