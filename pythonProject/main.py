@@ -21,7 +21,7 @@ def welcome():
     print("You can install them using the following command:")
     print("pip install selenium beautifulsoup4 chromedriver-py")
     print("You also need to download the ChromeDriver executable from:")
-    print("https://sites.google.com/a/chromium.org/chromedriver/downloads")
+    print("https://googlechromelabs.github.io/chrome-for-testing/")
     print("And place it in the same directory as this script.")
 
 
@@ -36,11 +36,15 @@ def load_driver(chromedriver_path):
     return driver_path
 
 
-def link_builder(page_num, sort_by, min_price, max_price, search_term, category):
+def link_builder(page_num, sort_by, min_price, max_price, search_term, category_group, category):
     url = f"https://buff.163.com/market/csgo#game=csgo"
 
-    if category:
-        url += f"&category_group={category}"
+    if page_num > 1:
+        url += f"&page_num={page_num}"
+    if category_group:
+        url += f"&category_group={category_group}"
+    else:
+        url += f"&category={category}"
     if search_term:
         url += f"&search={search_term}"
     if min_price is not None:
@@ -49,8 +53,7 @@ def link_builder(page_num, sort_by, min_price, max_price, search_term, category)
         url += f"&max_price={max_price}"
     if sort_by:
         url += f"&sort_by={sort_by}"
-    if page_num > 1:
-        url += f"&page_num={page_num}"
+
 
     url += "&tab=selling"
 
@@ -114,8 +117,8 @@ def calc_max_page(driver, wait):
 
 
 def verify_last_page(driver, wait, max_page):
-    url_test = link_builder(max_page, config.sort_by, config.min_price, config.max_price, config.search_term,
-                            config.category)
+    url_test = link_builder(max_page, config.SORT_BY, config.MIN_PRICE, config.MAX_PRICE, config.SEARCH_TERM,
+                            config.CATEGORY_GROUP, config.CATEGORY)
     print(f"Verifying last page: {url_test}")
     driver.get(url_test)
     time.sleep(1)
@@ -152,8 +155,8 @@ def scrape_items(chromedriver_path, cookies, total_pages):
     for page_num in range(1, total_pages + 1):
         # Construir a URL com o número da página
 
-        url = link_builder(page_num, config.sort_by, config.min_price, config.max_price, config.search_term,
-                           config.category)
+        url = link_builder(page_num, config.SORT_BY, config.MIN_PRICE, config.MAX_PRICE, config.SEARCH_TERM,
+                           config.CATEGORY_GROUP, config.CATEGORY)
         print(f"Scraping page {str(page_num)}: {url}")
         # Abrir a página no navegador
         driver.get(url)
@@ -228,11 +231,11 @@ def main():
     # Carregar os cookies a partir do arquivo JSON
     with open("cookies.json") as file:
         cookies = json.load(file)
-    url = link_builder(1, config.sort_by, config.min_price, config.max_price, config.search_term, config.category)
+    url = link_builder(1, config.SORT_BY, config.MIN_PRICE, config.MAX_PRICE, config.SEARCH_TERM, config.CATEGORY_GROUP, config.CATEGORY)
     print(f"Scraping data from {url}")
     # Número total de páginas a processar
-    if config.max_pages:
-        total_pages = min(config.max_pages, find_max_page(chromedriver_path, cookies, url))
+    if config.MAX_PAGES:
+        total_pages = min(config.MAX_PAGES, find_max_page(chromedriver_path, cookies, url))
         print(f"Processing {total_pages} pages")
     else:
         total_pages = find_max_page(chromedriver_path, cookies, url)
@@ -242,12 +245,14 @@ def main():
         print('No items. Please try again with different search parameters.')
         return
     # Salvar os dados em um arquivo JSON
-    if config.search_term and config.max_price is not None and config.min_price is not None:
-        filename = f"{config.search_term}_{config.min_price}_{config.max_price}_data.json"
-    elif config.search_term:
-        filename = f"{config.search_term}_data.json"
-    elif config.category:
-        filename = f"{config.category}_data.json"
+    if config.SEARCH_TERM and config.MAX_PRICE is not None and config.MIN_PRICE is not None:
+        filename = f"{config.SEARCH_TERM}_{config.MIN_PRICE}_{config.MAX_PRICE}_data.json"
+    elif config.SEARCH_TERM:
+        filename = f"{config.SEARCH_TERM}_data.json"
+    elif config.CATEGORY_GROUP:
+        filename = f"{config.CATEGORY_GROUP}_data.json"
+    elif config.CATEGORY:
+        filename = f"{config.CATEGORY}_data.json"
 
     else:
         filename = "item_data.json"

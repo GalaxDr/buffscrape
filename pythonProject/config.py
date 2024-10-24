@@ -1,9 +1,10 @@
-max_pages = None
-sort_by = "price.desc"
-min_price = 100000
-max_price = None
-search_term = None
-category = None
+MAX_PAGES = None
+SORT_BY = "price.desc"
+MIN_PRICE = 1000
+MAX_PRICE = None
+SEARCH_TERM = None
+CATEGORY_GROUP = "hands"
+CATEGORY = None
 
 # Case Examples
 # max_pages = 100
