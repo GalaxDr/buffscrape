@@ -1,5 +1,9 @@
+"""
+Main script to scrape item data from the Buff Market website.
+"""
 import json
 import os
+import sys
 import time
 from datetime import datetime, timedelta
 
@@ -7,7 +11,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.support.ui import WebDriverWait
 
 import config
@@ -71,7 +75,16 @@ def chrome_driver_config(chromedriver_path):
     return driver
 
 
+class CookieError(Exception):
+    pass
+
+
 def add_cookies(driver, cookies):
+    # Verificar se todos os cookies estão definidos
+    for cookie_name, cookie_value in cookies.items():
+        if not cookie_value:
+            raise CookieError(f"O cookie '{cookie_name}' não está definido."
+                              " Verifique o arquivo de cookies.")
     # Adicionar os cookies ao navegador
     for cookie in cookies:
         driver.add_cookie({'name': cookie, 'value': cookies[cookie]})
@@ -80,7 +93,12 @@ def add_cookies(driver, cookies):
 def find_max_page(chromedriver_path, cookies, url):
     driver = chrome_driver_config(chromedriver_path)
     driver.get(url)
-    add_cookies(driver, cookies)
+    try:
+        add_cookies(driver, cookies)
+    except CookieError as e:
+        print(f"Error: {e}")
+        driver.quit()
+        sys.exit(1)
     driver.refresh()
     wait = WebDriverWait(driver, 10)
 
@@ -99,17 +117,16 @@ def find_max_page(chromedriver_path, cookies, url):
 def calc_max_page(driver, wait):
     try:
         time.sleep(1)
-        wait.until(EC.presence_of_element_located((By.CLASS_NAME, "page-link")))
+        wait.until(ec.presence_of_element_located((By.CLASS_NAME, "page-link")))
         html = driver.page_source
         soup = BeautifulSoup(html, "html.parser")
-        page_links = [link for link in soup.find_all("a", class_="page-link")]
+        page_links = soup.find_all("a", class_="page-link")
 
         if page_links:
             max_page_test = int(page_links[-2].text)
             print(f"Max page test: {max_page_test}")
             return verify_last_page(driver, wait, max_page_test)
-        else:
-            return 1
+        return 1
     except Exception as e:
         print(f"Error while calculating max page: {e}")
         print("Assuming only one page of items")
@@ -122,10 +139,10 @@ def verify_last_page(driver, wait, max_page):
     print(f"Verifying last page: {url_test}")
     driver.get(url_test)
     time.sleep(1)
-    wait.until(EC.presence_of_element_located((By.CLASS_NAME, "page-link")))
+    wait.until(ec.presence_of_element_located((By.CLASS_NAME, "page-link")))
     html = driver.page_source
     soup = BeautifulSoup(html, "html.parser")
-    page_links = [link for link in soup.find_all("a", class_="page-link")]
+    page_links = soup.find_all("a", class_="page-link")
     active_page = soup.find("li", class_="active")
     if active_page:
         active_page = active_page.text
@@ -133,13 +150,12 @@ def verify_last_page(driver, wait, max_page):
         if active_page == str(max_page):
             return max_page
     last_page = page_links[-1].text
-    if last_page == "Previous page" or last_page == "Next page":
+    if last_page in ("Previous page","Next page"):
         return page_links[-2].text
     if last_page:
         print(f"Last page: {last_page}")
         return last_page
-    else:
-        return max_page
+    return max_page
 
 
 def scrape_items(chromedriver_path, cookies, total_pages):
@@ -169,7 +185,7 @@ def scrape_items(chromedriver_path, cookies, total_pages):
 
         # Esperar até que os elementos sejam carregados
         wait = WebDriverWait(driver, 10)
-        wait.until(EC.presence_of_element_located((By.CLASS_NAME, "f_12px")))
+        wait.until(ec.presence_of_element_located((By.CLASS_NAME, "f_12px")))
         if total_pages > 1:
             time.sleep(2)
         else:
@@ -195,8 +211,8 @@ def scrape_items(chromedriver_path, cookies, total_pages):
                 small_tag = price_tag.find("small")
                 if name_anchor:
                     item_name = name_anchor.get('title')
-                    item_price = price_tag.text.replace(small_tag.text,
-                                                        "") + small_tag.text if small_tag else price_tag.text.strip()
+                    item_price = (price_tag.text.replace(small_tag.text, "")
+                                  + small_tag.text) if small_tag else price_tag.text.strip()
 
                     data.append({
                         'name': item_name,
@@ -229,7 +245,7 @@ def main():
     chromedriver_path = load_driver("chromedriver.exe")
 
     # Carregar os cookies a partir do arquivo JSON
-    with open("cookies.json") as file:
+    with open("cookies.json", encoding="utf-8") as file:
         cookies = json.load(file)
     url = link_builder(1, config.SORT_BY, config.MIN_PRICE, config.MAX_PRICE, config.SEARCH_TERM, config.CATEGORY_GROUP, config.CATEGORY)
     print(f"Scraping data from {url}")

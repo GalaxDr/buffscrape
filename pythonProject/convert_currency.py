@@ -1,3 +1,6 @@
+"""
+This script reads a JSON file and converts the price from RMB to BRL.
+"""
 # -*- coding: utf-8 -*-
 import json
 import requests

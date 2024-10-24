@@ -1,3 +1,7 @@
+"""
+This script reads a JSON file and searches for an item by name.
+It will prompt the user for the name of the file and the item name.
+"""
 import json
 
 
